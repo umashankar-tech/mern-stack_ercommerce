@@ -56,7 +56,7 @@ function Header() {
                 <h1>
               
                     <div>
-                        vijay-pvt.ltd shopping                                          
+                        vijay.P shopping                                          
                     </div>                                   
                  
                 </h1>
