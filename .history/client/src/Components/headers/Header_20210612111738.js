@@ -61,7 +61,7 @@ function Header() {
                  
                 </h1>
                 <div>                       
-                 vijay creation's
+                     Provided by 
                     </div> 
                     </Link>  
                 
